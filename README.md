@@ -1,7 +1,4 @@
-# Project Title: ProFuture Website — React & Vite-Based Modern Web Application [(LIVE)](https://profuture-burhan-saglanmak.netlify.app/)
-
-ProFuture is a modern web application built with **React** and bootstrapped using **Vite**.  
-It features a scalable **SCSS architecture** and interactive sliders powered by **Swiper**.
+# Project Title: React Boilerplate with Context API, React Router, Material UI, Formik, and Jest [(LIVE)](https://react-boiler-plate-context-api.netlify.app/)
 
 # Description:
 This project is a comprehensive boilerplate providing a starting point for React applications. Initially, it includes a set of common tools and structures necessary for developing modern React applications.
